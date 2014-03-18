@@ -1,0 +1,11 @@
+{
+  "name": "background-matrix",
+  "main": "./lib/background-matrix",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Displays the matrix in the background when there are no editors open.",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.73.0"
+  }
+}
