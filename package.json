@@ -3,6 +3,7 @@
   "main": "./lib/background-matrix",
   "version": "0.0.1",
   "private": true,
+  "repository": "https://github.com/danzimm/background-matrix.git",
   "description": "Displays the matrix in the background when there are no editors open.",
   "license": "MIT",
   "engines": {
