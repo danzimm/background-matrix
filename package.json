@@ -1,7 +1,7 @@
 {
   "name": "background-matrix",
   "main": "./lib/background-matrix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "repository": "https://github.com/danzimm/background-matrix.git",
   "description": "Displays the matrix in the background when there are no editors open.",
