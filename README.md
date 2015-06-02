@@ -1,3 +1,5 @@
+## No longer Supported by @DanZimm. Feel free to fork, fix and republish this package.
+
 ## Background Matrix package
 
 Displays the matrix in the background when there are no open editors.
